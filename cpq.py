@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 ############################################################################################################################################################
-################ ISC code for calculating the cyclical polygonal quotient (Gallacher et al., in prep) for a list of Event Station Azimuths #################
+################ ISC code for calculating the cyclic polygon quotient for a list of Event Station Azimuths                                 #################
 ################ Created 03/10/2024 by Ryan Gallacher Seismologist/Developer at the International Seismological Centre - ryan@isc.ac.uk    #################
 ################                                                                                                                           #################
 ################ When using this code please cite:                                                                                         #################
