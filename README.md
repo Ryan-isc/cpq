@@ -1,5 +1,5 @@
 Code for calculating the cyclic polygon quotient for a list of Event-Station Azimuths
-Created 03/10/2024 by Ryan Gallacher Seismologist/Developer at the International Seismological Centre - ryan@isc.ac.uk
+Created 03/10/2024 by Ryan Gallacher, Seismologist/Developer at the International Seismological Centre - ryan@isc.ac.uk
 
 When using this code please cite: Gallacher et al. (2025) Revising the Seismic Ground Truth Reference Event Identification Criteria. Seismica
 
